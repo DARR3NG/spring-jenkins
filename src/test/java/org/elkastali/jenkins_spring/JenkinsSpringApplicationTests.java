@@ -17,6 +17,7 @@ class JenkinsSpringApplicationTests {
         logger.info("Test case executing...");
         logger.info("Test case executing second line...");
         logger.info("Test case executing third line...");
+        logger.info("Test case executing fourth line...");
         assertEquals(1, 1);
     }
 
